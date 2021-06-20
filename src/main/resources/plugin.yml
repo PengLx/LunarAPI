@@ -1,0 +1,7 @@
+name: LunarAPI
+version: ${project.version}
+main: chsteam.lunarapi.LunarAPI
+authors: [ Peng_Lx, ice-cold-cold ]
+commands:
+  lunar:
+    usage: /lunar help
